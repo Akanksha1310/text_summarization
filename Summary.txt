@@ -1,0 +1,5 @@
+As machines become increasingly capable, tasks considered to require "intelligence" are often removed from the definition of AI, a phenomenon known as the AI effect.
+The traditional problems (or goals) of AI research include reasoning, knowledge representation, planning, learning, natural language processing, perception and the ability to move and manipulate objects.
+Approaches include statistical methods, computational intelligence, and traditional symbolic AI.
+Many tools are used in AI, including versions of search and mathematical optimization, artificial neural networks, and methods based on statistics, probability and economics.
+The field was founded on the assumption that human intelligence "can be so precisely described that a machine can be made to simulate it".
