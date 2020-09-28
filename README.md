@@ -1,5 +1,5 @@
 
-#Text summarization implementation using the TextRank algorithm
+# Text summarization implementation using the TextRank algorithm
 
 TextRank is a derivative of the famous PageRank algorithm by google. In PageRank, a matrix is generated in which each element represents the probability that a user will move from one webpage to another. In the case of TextRank, a cosine similarity matrix is generated which will picture how similar the sentences are.
 
